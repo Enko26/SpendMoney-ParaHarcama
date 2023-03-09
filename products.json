@@ -1,0 +1,105 @@
+[
+    {
+        "id": 1,
+        "title":"MacPro - Apple",
+        "price": 40000,
+        "image":"https://i.pinimg.com/originals/8d/19/df/8d19df0f1d0347d9dec351afa2554106.jpg"
+    },
+    {
+        "id": 2,
+        "title":"Monitör",
+        "price":3500,
+        "image":"https://www.pngkey.com/png/full/250-2505279_monitor-msi-optix-mpg27c-27-curved-gaming-monitor.png"
+
+    },
+    {
+        "id": 3,
+        "title":"Klavye",
+        "price":1000,
+        "image":"https://static.sinerji.gen.tr/Images/LG/YJK-razer-hunstman-mini-clicky-switch-gaming-klavye.jpg"
+    },  
+    {
+        "id": 4,
+        "title":"Özel Uçak",
+        "price":280000000,
+        "image":"https://img2.pngindir.com/20180703/prw/kisspng-airplane-jet-aircraft-aviation-business-jet-private-jet-5b3affefcbe978.5049792715305932638352.jpg"
+    },
+    {
+        "id": 5,
+        "title":"Spor Araba",
+        "price":3500000,
+        "image":"https://cdn.pixabay.com/photo/2019/12/31/20/58/car-4732653_960_720.png"
+
+    },
+    {
+        "id": 6,
+        "title":"Lüks yat",
+        "price":20000000,
+        "image":"https://w7.pngwing.com/pngs/746/16/png-transparent-yacht-ship-boat-luxuryyacht-mode-of-transport-motorcycle-luxury-yacht.png"
+
+    },
+    {
+        "id": 7,
+        "title":"BTC",
+        "price":390000,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/5/50/Bitcoin.png"
+
+    },
+    {
+        "id": 8,
+        "title":"Mona Lisa Tablosu",
+        "price":16000000,
+        "image":"https://images.tablohane.com/Image/kanvastablo/leonardo-da-vinci-mona-lisa-kanvas-tablosu-TH021135.jpg"
+
+    },
+    {
+        "id": 9,
+        "title":"Iphone14",
+        "price":30000,
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFDiuL_6GsAk7aoYdQcaGzSZ2MaqecoehPkEkUdIqg-42hVr0Ku1XNL2k8yt-O01aFSJM&usqp=CAU"
+
+    },
+    {
+        "id": 10,
+        "title":"Lüks Villa",
+        "price":19000000,
+        "image":"https://www.villapaketi.com/upload/slider.png"
+
+    },
+    {
+        "id": 11,
+        "title":"Motorsiklet",
+        "price":315000,
+        "image":"https://w7.pngwing.com/pngs/270/646/png-transparent-yamaha-motor-company-yamaha-yzf-r1-yamaha-yzf-r6-motorcycle-anti-lock-braking-system-motorcycle-exhaust-system-car-motorcycle.png"
+
+    },
+    {
+        "id": 12,
+        "title":"Jetski",
+        "price":400,
+        "image":"https://www.pngall.com/wp-content/uploads/12/Jet-Ski-PNG-Image-File.png"
+
+    },
+    {
+        "id": 13,
+        "title":"Ayakkabı",
+        "price":2999,
+        "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4e7695a1-3a51-4c22-98e3-3bad6274cee1/air-jordan-1-retro-high-og-ayakkab%C4%B1.png"
+
+    },
+    {
+        "id": 14,
+        "title":"Pizza",
+        "price":150,
+        "image":"https://toppng.com/uploads/preview/pizza-11527809195frqp1qz4zd.png"
+
+    },
+    {
+        "id": 15,
+        "title":"Futbol Topu",
+        "price":350,
+        "image":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/22d15d87-b630-4e6a-94a8-871d15bc3f74/premier-league-strike-%C3%BC%C3%A7%C3%BCnc%C3%BC-futbol-topu-8M8sVt.png"
+
+    }
+    
+]
